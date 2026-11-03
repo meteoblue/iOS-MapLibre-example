@@ -24,17 +24,6 @@ The app uses a rate-limited demo API key, which will be replaced from time to ti
 Get your own API key [here](https://content.meteoblue.com/en/access-options/meteoblue-weather-api)
 and set `apiKey` in `MapView.swift`.
 
-## Variants
-
-|         | MapLibre                            | WebView + Maps Plugin              |
-| ------- | ----------------------------------- | ---------------------------------- |
-| Android | `maps-api-android-maplibre-example` | `maps-api-android-webview-example` |
-| iOS     | `maps-api-ios-maplibre-example`     | `maps-api-ios-webview-example`     |
-
 ## Documentation
 
 - [Maps API overview](https://docs.meteoblue.com/en/weather-apis/maps-api/overview)
-- [Time API](https://docs.meteoblue.com/en/weather-apis/maps-api/time-api)
-- [Tile API](https://docs.meteoblue.com/en/weather-apis/maps-api/tile-api)
-- [Domains and weather variables](https://docs.meteoblue.com/en/weather-apis/maps-api/domains)
-- [Web examples (Mapbox GL JS, Leaflet)](https://docs.meteoblue.com/en/weather-apis/maps-api/examples)
